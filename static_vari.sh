@@ -1,5 +1,5 @@
 name="orange"
-price="200"
+price="150"
 echo "That fruit is $name"
 echo "Price of $name per kilo is $price"
 
